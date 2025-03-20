@@ -1,2 +1,2 @@
-# git215_setup
-Module 1 Homework
+## git215_setup
+## Author: PJ_Graham
